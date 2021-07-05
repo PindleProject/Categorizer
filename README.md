@@ -19,7 +19,7 @@ Agglomeration of files is also a challenge that is faced by all operating system
 ### Installing
 <li>For Debian based system install:<a href=https://github.com/PindleProject/Categorizer/releases/download/v1.0/pindlecategorizer_1.0-1.deb>pindlecategorizer_1.0-1.deb</a></li>
 <li>For Rhel based system install:<a href=https://github.com/PindleProject/Categorizer/releases/download/v1.0/pindlecategorizer1.02.x86_64.rpm>pindlecategorizer1.02.x86_64.rpm</a></li>
-<li>For Windows based system install:</li>
+<li>For Windows based system install:<a href=https://github.com/PindleProject/Categorizer/releases/download/v1.0/PindleCategorizer.exe>pindlecategorizer.exe</a></li>
 
 
 ### Executing Program
